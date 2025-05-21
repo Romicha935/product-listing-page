@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air M2",
+    "category": "Laptop",
+    "price": 1099,
+    "image": "https://i.ibb.co/QjYMm0G/macbook.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iPhone 14 Pro",
+    "category": "Phone",
+    "price": 999,
+    "image": "https://i.ibb.co/2tYfCNx/iphone.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Canon EOS 90D",
+    "category": "Camera",
+    "price": 899,
+    "image": "https://i.ibb.co/2ZNy3L7/canon.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy Watch 5",
+    "category": "Smartwatch",
+    "price": 299,
+    "image": "https://i.ibb.co/T0Rbmbh/watch.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "price": 399,
+    "image": "https://i.ibb.co/SnWH3sC/headphone.jpg"
+  },
+  {
+    "id": 6,
+    "name": "DJI Mini 3 Pro",
+    "category": "Drone",
+    "price": 759,
+    "image": "https://i.ibb.co/mXQKdWV/drone.jpg"
+  }
+]
